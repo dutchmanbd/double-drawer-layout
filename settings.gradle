@@ -1,0 +1,3 @@
+include ':doubledrawer'
+include ':app'
+rootProject.name = "DoubleDrawerViewDemo"

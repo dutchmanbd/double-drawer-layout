@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DoubleDrawerViewDemo</string>
+    <string name="txt_menu_screen_1">Screen 1</string>
+    <string name="txt_menu_screen_2">Screen 2</string>
+    <string name="txt_open_settings">Open Settings</string>
+    <string name="navigation_drawer_open">Open Drawer</string>
+    <string name="navigation_drawer_close">Close Drawer</string>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menuCloseSettings"
+        android:title="Back to Main" />
+
+    <group
+        android:id="@+id/groupSettings">
+        <item
+            android:id="@+id/menuSetting1"
+            android:title="Setting 1" />
+        <item
+            android:id="@+id/menuSetting2"
+            android:title="Setting 2" />
+    </group>
+
+</menu>
